@@ -4,7 +4,7 @@
 const CONFIG = {
   companyName: "Ubunifu Bytes",
   // Replace with the deployed Apps Script Web App URL ending in /exec.
-  appsScriptUrl: "https://script.google.com/macros/s/AKfycbxXwGwnVwvtnLtNeKsN3cHwd9engKdL5joY-iB2UI8JEmvZCqZ7osC9kr2oCANWWH3TAw/exec",
+  appsScriptUrl: "https://script.google.com/macros/s/AKfycbyTpAaNkLeIeMT5xm44Cf9OCHBJBP5VG0EgE0Z4rl_4CE8m6KIYs_G4ikARb8t2epPuWA/exec",
   // Replace with the official WhatsApp number, digits only, including country code.
   companyWhatsApp: "+254705176259"
 };
